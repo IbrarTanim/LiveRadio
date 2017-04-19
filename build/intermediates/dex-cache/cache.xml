@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\ibrar\.android\build-cache\30e97fbd2c2f1aa6fdb31da2209d516140368b80\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="F:\abc\Radio\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_58d55da9cda0d5f18c4cc0aae8109b98780a62c9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\SDK\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="F:\abc\Radio\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.3.1_e3186410389132aa133fb8dc35b235bb6d833291\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ibrar\.android\build-cache\b2766ef8c033a52215023d70ac5b5e238bff4b65\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="F:\abc\Radio\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_15e2c01e3d8c816fa8451fed25054c574131eb69\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ibrar\.android\build-cache\2d8e2f417b54f56fc5177c8098ca33ec8b05b976\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="F:\abc\Radio\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_334d084c2088a0d2e53c48f97d6c4edc139eb0aa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ibrar\.android\build-cache\67acf1befcbef629eb77d22d5408a554a29b0b94\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="F:\abc\Radio\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4f3fd6e773628a1a9e5ae74dce63bd33cb2fc1bd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ibrar\.android\build-cache\c416b6cfffd207b999cd7878c23bdb90875e4733\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="F:\abc\Radio\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_40c99cffb2409d38d1c941bdd35b6c82fd052ae4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ibrar\.android\build-cache\c13f225af56edf0954203a4069100120d1829959\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="F:\abc\Radio\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0d703b286ec7b5c1ef8f0a77e81895d81fa6d8a9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\abc\Radio\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f41a66f824374151fa5b0b7ead1fba76aafa6d30">
+        <dex dex="F:\abc\Radio\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_47755f62fcfd7617631c0d3be7974d0ab706917c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\abc\Radio\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="F:\abc\Radio\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_641f9a2118e115fdb47fef1f4feacc25f8cd8d07\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ibrar\.android\build-cache\968a43324bbca741cb3239c4f162602f6ac5616a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="F:\abc\Radio\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c5a9f4de83d815c7c9575eace5ab9a80c6e6e16f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ibrar\.android\build-cache\a46bd6fe096cab70d155b7380e02617af61b1819\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="F:\abc\Radio\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7e92c17e2bc6aa1fd2fb9ec0aec5edc67149ada0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ibrar\.android\build-cache\2502464930b939d032bf0a2d01ec95924dc645d3\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="F:\abc\Radio\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ded487802131fffd663231baae73666cf74147c0\classes.dex" />
+    </item>
+
+</items>
